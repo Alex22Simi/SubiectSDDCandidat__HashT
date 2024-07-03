@@ -1,0 +1,5 @@
+112,Simionescu,CSIE,7,5000
+113,Alin,FABIZ,8,4500
+114,Cosmina,REI,9,6000
+115,David,CSIE,10,5600
+2222,Bogdan,MK,9,4000
